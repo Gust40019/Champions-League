@@ -13,3 +13,6 @@ p{
 #banner{
 width: 110%;
 }
+#conteudo{
+    display: flex;
+}
